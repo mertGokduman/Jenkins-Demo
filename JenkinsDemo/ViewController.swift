@@ -13,8 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
 
-        view.backgroundColor = .blue
-        print("Hello World - 2")
+        view.backgroundColor = .red
+        print("Hello World - 3")
     }
 
 
