@@ -80,6 +80,7 @@
 		B489ECAE2C10C8680075F7C9 = {
 			isa = PBXGroup;
 			children = (
+				B453A3602C10D5A8006FC807 /* Jenkinsfile.sh */,
 				B489ECB92C10C8680075F7C9 /* JenkinsDemo */,
 				B489ECD02C10C8690075F7C9 /* JenkinsDemoTests */,
 				B489ECDA2C10C8690075F7C9 /* JenkinsDemoUITests */,
@@ -107,7 +108,6 @@
 				B489ECC32C10C8690075F7C9 /* Assets.xcassets */,
 				B489ECC52C10C8690075F7C9 /* LaunchScreen.storyboard */,
 				B489ECC82C10C8690075F7C9 /* Info.plist */,
-				B453A3602C10D5A8006FC807 /* Jenkinsfile.sh */,
 			);
 			path = JenkinsDemo;
 			sourceTree = "<group>";
