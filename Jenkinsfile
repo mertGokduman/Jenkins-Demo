@@ -1,6 +1,6 @@
 pipeline {
     agent any
-    Triggers {
+    triggers {
 	pollSCM 'H/1 * * * *'
     }
     stages {
