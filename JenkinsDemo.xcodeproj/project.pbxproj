@@ -36,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B453A3602C10D5A8006FC807 /* Jenkinsfile.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = Jenkinsfile.sh; sourceTree = "<group>"; };
 		B489ECB72C10C8680075F7C9 /* JenkinsDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JenkinsDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B489ECBA2C10C8680075F7C9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B489ECBC2C10C8680075F7C9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +107,7 @@
 				B489ECC32C10C8690075F7C9 /* Assets.xcassets */,
 				B489ECC52C10C8690075F7C9 /* LaunchScreen.storyboard */,
 				B489ECC82C10C8690075F7C9 /* Info.plist */,
+				B453A3602C10D5A8006FC807 /* Jenkinsfile.sh */,
 			);
 			path = JenkinsDemo;
 			sourceTree = "<group>";
